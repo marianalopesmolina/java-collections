@@ -1,2 +1,2 @@
-# java-exemplos
-Repositório dos meus exercícios de código Java.
+# java-collections
+Repositório dos meus exercícios de código Java sobre Collections.
